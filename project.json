@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "name": "tt",
+  "target": {
+    "framework": "arduino",
+    "board": "esp32:esp32:esp32s3",
+    "options": {},
+    "sketchPath": "cpu/NORVI-X-CPU-ESPS3-X1/examples/arduino/NORVI_X-CPU-ESPS3-X1_Test_Code"
+  },
+  "serial": null,
+  "build": {
+    "properties": []
+  },
+  "createdAt": "2026-11-26T08:02:06.100Z",
+  "updatedAt": "2026-11-26T08:02:06.100Z"
+}
